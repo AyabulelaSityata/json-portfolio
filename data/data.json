@@ -1,0 +1,96 @@
+{
+    "skills": [
+        {
+            "skill": "html",
+            "progress": 60
+        },
+        {
+            "skill": "CSS",
+            "progress": 60
+        },
+        {
+            "skill": "Bootstrap",
+            "progress": 60
+        },
+        {
+            "skill": "JavaScript",
+            "progress": 60
+        },
+        {
+            "skill": "Vuejs",
+            "progress": 60
+        }
+    ],
+    "education": [
+       {
+        "institution": "Life Choices Academy",
+        "grade": 12,
+        "certificate": "NCV",
+        "completedDate": "April 2023 - present"
+       },
+       {
+        "institution": "Sinako High School",
+        "grade": 12,
+        "certificate": "NCV",
+        "completedDate": 2015
+       }
+    ],
+    "experience": [
+        {
+         "company": "WNS Global Services",
+         "occupation": "Snr Operations Associate",
+         "duration": "April 2022 - February 2023"
+        },
+        {
+            "company": "Edward Snell & Co",
+            "occupation": "Warehouse Intern",
+            "duration": "June 2019 - June 2020"
+        },
+        {
+            "company": "Spar DC Western Cape",
+            "occupation": "Picker/Packer",
+            "duration": "Sep 2018 - May 2019"
+        }
+     ],
+    "projects": [
+          {}
+    ],
+     "testimonials": [
+           {
+            "image": "https://i.postimg.cc/XqHHRPSy/C11-Uzukhanye-Dywili-4.jpg",
+            "personName": "Uzukhanye Dywili",
+            "message": "",
+            "relationship": "Collegue"
+           },
+           {
+            "image": "",
+            "personName": "",
+            "message": "",
+            "relationship": "Collegue"
+           },
+           {
+            "image": "",
+            "personName": "",
+            "message": "",
+            "relationship": "Collegue"
+           },
+           {
+            "image": "",
+            "personName": "",
+            "message": "",
+            "relationship": "Collegue"
+           },
+           {
+            "image": "",
+            "personName": "",
+            "message": "",
+            "relationship": "Collegue"
+           },
+           {
+            "image": "",
+            "personName": "",
+            "message": "",
+            "relationship": "Collegue"
+           }
+     ]
+}
