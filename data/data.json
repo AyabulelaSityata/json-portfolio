@@ -17,13 +17,12 @@
          "id": 1,
          "institution": "Life Choices Academy",
          "major": "Coding/Web Development",
-         "certificate": "NCV",
          "year": "April 2023 - present"
         },
         {
          "id": 2,
          "institution": "Sinako High School",
-         "grade": "12 Matric",
+         "major": "12 Matric",
          "year": 2015
         }
      ],
