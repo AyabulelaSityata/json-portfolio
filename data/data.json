@@ -1,92 +1,182 @@
 {
-    "skills": [
+    "info": [
         {
-            "skill": "html",
-            "progress": 60
-        },
-        {
-            "skill": "CSS",
-            "progress": 60
-        },
-        {
-            "skill": "Bootstrap",
-            "progress": 60
-        },
-        {
-            "skill": "JavaScript",
-            "progress": 60
-        },
-        {
-            "skill": "Vuejs",
-            "progress": 60
+            "id": 1,
+            "name": "Ayabulela Sityata",
+            "birth": "16/06/1997",
+            "place": "Cape Town, Western Cape, South Africa",
+            "cell": "0621383858",
+            "alternative": "0691308478"
+            "email": "sityataayabulela@gmail.com",
+            "language": "English & IsiXhosa",
+            "relocate": "I am willing to relocate anywhere"
         }
     ],
     "education": [
-       {
-        "institution": "Life Choices Academy",
-        "grade": 12,
-        "certificate": "NCV",
-        "completedDate": "April 2023 - present"
-       },
-       {
-        "institution": "Sinako High School",
-        "grade": 12,
-        "certificate": "NCV",
-        "completedDate": 2015
-       }
+        {
+         "id": 1,
+         "institution": "Life Choices Academy",
+         "major": "Coding/Web Development",
+         "certificate": "NCV",
+         "year": "April 2023 - present"
+        },
+        {
+         "id": 2,
+         "institution": "Sinako High School",
+         "grade": "12 Matric",
+         "year": 2015
+        }
+     ],
+    "skills": [
+        {
+            "id": 1,
+            "name": "HTML",
+            "image": "",
+            "level": "Intermediate"
+        },
+        {
+            "id": 2,
+            "name": "CSS",
+            "image": "",
+            "level": "Intermediate"
+        },
+        {
+            "id": 3,
+            "name": "Bootstrap",
+            "image": "",
+            "level": "Intermediate"
+        },
+        {
+            "id": 4,
+            "name": "JavaScript",
+            "image": "",
+            "level": "Intermediate"
+        },
+        {
+            "id": 5,
+            "name": "VueJS",
+            "image": "",
+            "level": "Intermediate"
+        }
     ],
     "experience": [
         {
-         "company": "WNS Global Services",
-         "occupation": "Snr Operations Associate",
-         "duration": "April 2022 - February 2023"
+            "id": 1,
+            "company": "WNS Global Services",
+            "occupation": "Snr Operations Associate",
+            "description": "I was working as an agent assisting customers with any quiries regarding their PEP money transfers, PAXI parcel tracking and doing follow ups.",
+            "duration": "April 2022 - February 2023"
         },
         {
+            "id": 2,
+            "company": "Spar DC Western Cape",
+            "occupation": "Packer",
+            "description": "I was hired back at my previous but in a different department at dry goods, I was working as a packer.",
+            "duration": "December 2020 - July 2021"
+        },
+        {
+            "id": 3,
             "company": "Edward Snell & Co",
             "occupation": "Warehouse Intern",
+            "description": "This was an in-service training job I got through my college to help me gain experiance as an Operations Manager.",
             "duration": "June 2019 - June 2020"
         },
         {
+            "id": 4,
             "company": "Spar DC Western Cape",
             "occupation": "Picker/Packer",
+            "description": "This was my first ever job which I was doing part-time because I was still studying at the time, I was picking and packing items.",
             "duration": "Sep 2018 - May 2019"
         }
      ],
     "projects": [
-          {}
+        {
+            "id": 1,
+            "title": "e-commerce website",
+            "description": "I created this website with javascript, we had to fetch data using local storage.",
+            "image": "https://i.postimg.cc/NF5hW6FV/comm.jpg",
+            "github": "https://github.com/AyabulelaSityata/myEOMP.git",
+            "netlify": "https://ayasjsproject.netlify.app/"
+          },  
+        {
+            "id": 2,
+            "title": "Temperature Converter",
+            "description": "I created this temperature converter using javascript and bootstrap",
+            "image": "https://i.postimg.cc/LscYw5nH/temp.png",
+            "github": "https://github.com/AyabulelaSityata/tempConverter.git",
+            "netlify": "https://ayastempconveter.netlify.app/"
+          },
+          {
+            "id": 3,
+            "title": "To-do List",
+            "description": "",
+            "image": "",
+            "github": "https://github.com/AyabulelaSityata/ayasToDoList.git",
+            "netlify": "https://ayastodoapp.netlify.app"
+          },
+          {
+            "id": 4,
+            "title": "BMI Calculator",
+            "description": "",
+            "image": "https://i.postimg.cc/gJsS4C2H/bmi.png",
+            "github": "https://github.com/AyabulelaSityata/myBMI.git",
+            "netlify": "https://ayasbmi.netlify.app"
+          },
+          {
+            "id": 5,
+            "title": "Calculator",
+            "description": "",
+            "image": "https://i.postimg.cc/brj6yqFP/calc.png",
+            "github": "https://github.com/AyabulelaSityata/ayascalculator.git",
+            "netlify": "https://ayascalculator.netlify.app"
+          },
+          {
+            "id": 6,
+            "title": "Calender",
+            "description": "",
+            "image": "",
+            "github": "https://github.com/AyabulelaSityata/calender.git",
+            "netlify": "https://ayascalender.netlify.app/"
+          }
     ],
      "testimonials": [
            {
+            "id": 1,
             "image": "https://i.postimg.cc/XqHHRPSy/C11-Uzukhanye-Dywili-4.jpg",
             "personName": "Uzukhanye Dywili",
             "message": "",
             "relationship": "Collegue"
            },
            {
+            "id": 2,
+            "image": "https://i.postimg.cc/VN965RKC/C12-Siyamthanda-Mazokwana-2.jpg",
+            "personName": "Siyamathanda Mazokwana",
+            "message": "Ayabulela is a rising star in the software development world! His passion for coding and eagerness to learn is truly inspiring. I have no doubt that he will become a great developer and contribute positively to the tech industry",
+            "relationship": "Collegue"
+           },
+           {
+            "id": 3,
+            "image": "https://i.postimg.cc/WbPXRpQb/khazimla.jpg",
+            "personName": "Khazimla Mahomana",
+            "message": "I have known Ayabulela for a short time but I have discovered that he is very down to earth and approachable. He is extremely hard-working and has good collaboration skills when working on projects",
+            "relationship": "Collegue"
+           },
+           {
+            "id": 4,
             "image": "",
             "personName": "",
             "message": "",
             "relationship": "Collegue"
            },
            {
+            "id": 5,
             "image": "",
             "personName": "",
             "message": "",
             "relationship": "Collegue"
            },
            {
-            "image": "",
-            "personName": "",
-            "message": "",
-            "relationship": "Collegue"
-           },
-           {
-            "image": "",
-            "personName": "",
-            "message": "",
-            "relationship": "Collegue"
-           },
-           {
+            "id": 6,
             "image": "",
             "personName": "",
             "message": "",
