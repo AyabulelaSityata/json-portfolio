@@ -108,15 +108,15 @@
           {
             "id": 3,
             "title": "To-do List",
-            "description": "",
-            "image": "",
+            "description": "I created this website with javascript, we had to fetch data using local storage.",
+            "image": "https://i.postimg.cc/ZnztXWCB/todo.jpg",
             "github": "https://github.com/AyabulelaSityata/ayasToDoList.git",
             "netlify": "https://ayastodoapp.netlify.app"
           },
           {
             "id": 4,
             "title": "BMI Calculator",
-            "description": "",
+            "description": "I created this website with javascript, we had to fetch data using local storage.",
             "image": "https://i.postimg.cc/gJsS4C2H/bmi.png",
             "github": "https://github.com/AyabulelaSityata/myBMI.git",
             "netlify": "https://ayasbmi.netlify.app"
@@ -124,7 +124,7 @@
           {
             "id": 5,
             "title": "Calculator",
-            "description": "",
+            "description": "I created this website with javascript, we had to fetch data using local storage.",
             "image": "https://i.postimg.cc/brj6yqFP/calc.png",
             "github": "https://github.com/AyabulelaSityata/ayascalculator.git",
             "netlify": "https://ayascalculator.netlify.app"
@@ -132,8 +132,8 @@
           {
             "id": 6,
             "title": "Calender",
-            "description": "",
-            "image": "",
+            "description": "I created this website with javascript, we had to fetch data using local storage.",
+            "image": "https://i.postimg.cc/gJsS4C2H/bmi.png",
             "github": "https://github.com/AyabulelaSityata/calender.git",
             "netlify": "https://ayascalender.netlify.app/"
           }
@@ -143,7 +143,7 @@
             "id": 1,
             "image": "https://i.postimg.cc/XqHHRPSy/C11-Uzukhanye-Dywili-4.jpg",
             "personName": "Uzukhanye Dywili",
-            "message": "",
+            "message": "sdogsvnggs  oskgnrsvsfibns vsfbbnfljbnoxbf fbfkgnsdfoibsfo fbsfnsdvnsdidoi fbfsknv",
             "relationship": "Collegue"
            },
            {
@@ -162,23 +162,23 @@
            },
            {
             "id": 4,
-            "image": "",
-            "personName": "",
-            "message": "",
+            "image": "https://i.postimg.cc/WbPXRpQb/khazimla.jpg",
+            "personName": "Thabang Kganana",
+            "message": "xbsbjfsigjsf sfbnfkbnfisfiifbn bsnsvisfovsn fsnbofibfsbi bs",
             "relationship": "Collegue"
            },
            {
             "id": 5,
-            "image": "",
-            "personName": "",
-            "message": "",
+            "image": "https://i.postimg.cc/WbPXRpQb/khazimla.jpg",
+            "personName": "Mondlikazi",
+            "message": "vsfbifbjsfbjspif fsbsfbipjsgipsf bsfbknfbnsfio sfbbsif isfbnsp nfbnsfp ninosbn ",
             "relationship": "Collegue"
            },
            {
             "id": 6,
-            "image": "",
-            "personName": "",
-            "message": "",
+            "image": "https://i.postimg.cc/WbPXRpQb/khazimla.jpg",
+            "personName": "Alonso Cupido",
+            "message": "dfbnsfkn sdbnbibsfbnsfi dfgnfkbnfskbsfnbnf dfbjdfipfbhjsfi  kfnlv nnbflbnlj",
             "relationship": "Collegue"
            }
      ]
