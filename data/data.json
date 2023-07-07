@@ -15,12 +15,14 @@
     "education": [
         {
          "id": 1,
+         "logo": "https://i.postimg.cc/mgPkN07t/LifeC.png",
          "institution": "Life Choices Academy",
          "major": "Coding/Web Development",
          "year": "April 2023 - present"
         },
         {
          "id": 2,
+         "logo": "https://i.postimg.cc/hvMvpnC7/fauget.png",
          "institution": "Sinako High School",
          "major": "12 Matric",
          "year": 2015
@@ -30,37 +32,38 @@
         {
             "id": 1,
             "name": "HTML",
-            "image": "",
+            "image": "https://i.postimg.cc/1R2qtk4R/HTML5-logo-and-wordmark-svg.png",
             "level": "Intermediate"
         },
         {
             "id": 2,
             "name": "CSS",
-            "image": "",
+            "image": "https://i.postimg.cc/bNn22m2x/CSS3-logo-and-wordmark-svg.png",
             "level": "Intermediate"
         },
         {
             "id": 3,
             "name": "Bootstrap",
-            "image": "",
+            "image": "https://i.postimg.cc/gJrxcsW6/Bootstrap-logo-svg.png",
             "level": "Intermediate"
         },
         {
             "id": 4,
             "name": "JavaScript",
-            "image": "",
+            "image": "https://i.postimg.cc/8CZFV3qS/Java-Script-Symbol.png",
             "level": "Intermediate"
         },
         {
             "id": 5,
             "name": "VueJS",
-            "image": "",
+            "image": "https://i.postimg.cc/W4NDCjY8/Vue-js-Logo-2-svg.png",
             "level": "Intermediate"
         }
     ],
     "experience": [
         {
             "id": 1,
+            "logo": "https://i.postimg.cc/yN1zVRnc/wns.png",
             "company": "WNS Global Services",
             "occupation": "Snr Operations Associate",
             "description": "I was working as an agent assisting customers with any quiries regarding their PEP money transfers, PAXI parcel tracking and doing follow ups.",
@@ -68,6 +71,7 @@
         },
         {
             "id": 2,
+            "logo": "https://i.postimg.cc/xd6VqdF7/Spar-logo.png",
             "company": "Spar DC Western Cape",
             "occupation": "Packer",
             "description": "I was hired back at my previous but in a different department at dry goods, I was working as a packer.",
@@ -75,6 +79,7 @@
         },
         {
             "id": 3,
+            "logo": "https://i.postimg.cc/85sQvV2C/edward-snell-co-owler-20160630-191408-original.png",
             "company": "Edward Snell & Co",
             "occupation": "Warehouse Intern",
             "description": "This was an in-service training job I got through my college to help me gain experiance as an Operations Manager.",
@@ -82,6 +87,7 @@
         },
         {
             "id": 4,
+            "logo": "https://i.postimg.cc/xd6VqdF7/Spar-logo.png",
             "company": "Spar DC Western Cape",
             "occupation": "Picker/Packer",
             "description": "This was my first ever job which I was doing part-time because I was still studying at the time, I was picking and packing items.",
