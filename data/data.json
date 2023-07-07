@@ -73,9 +73,9 @@
             "id": 2,
             "logo": "https://i.postimg.cc/xd6VqdF7/Spar-logo.png",
             "company": "Spar DC Western Cape",
-            "occupation": "Packer",
-            "description": "I was hired back at my previous but in a different department at dry goods, I was working as a packer.",
-            "duration": "December 2020 - July 2021"
+            "occupation": "Picker/Packer",
+            "description": "I was a picker and a packer scanning items and doing dispatch in two departments, dry-goods and perishables",
+            "duration": "December 2020 - July 2021 & Sep 2018 - May 2019"
         },
         {
             "id": 3,
@@ -84,14 +84,6 @@
             "occupation": "Warehouse Intern",
             "description": "This was an in-service training job I got through my college to help me gain experiance as an Operations Manager.",
             "duration": "June 2019 - June 2020"
-        },
-        {
-            "id": 4,
-            "logo": "https://i.postimg.cc/xd6VqdF7/Spar-logo.png",
-            "company": "Spar DC Western Cape",
-            "occupation": "Picker/Packer",
-            "description": "This was my first ever job which I was doing part-time because I was still studying at the time, I was picking and packing items.",
-            "duration": "Sep 2018 - May 2019"
         }
      ],
     "projects": [
