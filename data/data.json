@@ -99,7 +99,7 @@
             "id": 2,
             "title": "Temperature Converter",
             "description": "I created this temperature converter using javascript and bootstrap",
-            "image": "https://i.postimg.cc/LscYw5nH/temp.png",
+            "image": "https://i.postimg.cc/Kj7SbmM9/tempconv.png",
             "github": "https://github.com/AyabulelaSityata/tempConverter.git",
             "netlify": "https://ayastempconveter.netlify.app/"
           },
